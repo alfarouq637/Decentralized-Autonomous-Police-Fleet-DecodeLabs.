@@ -55,3 +55,19 @@ This contract has been rigorously tested on the **Remix VM (Cancun)** environmen
 ---
 *Developed as part of the Robotics and Automation Engineering Internship at **DecodeLabs**.*
 *Bridging the gap between Cyber-Physical Systems and Decentralized Blockchain Governance.*
+
+## 📸 Execution Proofs (Gatekeeper Rules)
+
+Here are the transaction logs proving the successful deployment and execution of the on-chain logic gates:
+
+**1. Authenticated Registration (Success):**
+(<img width="1919" height="964" alt="Screenshot 2026-05-23 224344" src="https://github.com/user-attachments/assets/9e8308e3-8547-4696-b31d-796057944844" />
+)
+
+**2. Concurrency Protection (Robot Busy Error):**
+(<img width="1919" height="967" alt="Screenshot 2026-05-23 225003" src="https://github.com/user-attachments/assets/31086c59-1c54-4f75-af19-ef4891de5aee" />
+)
+
+**3. Proof-Driven Completion (Task Resolved):**
+(<img width="1919" height="962" alt="Screenshot 2026-05-23 225335" src="https://github.com/user-attachments/assets/f56e5a74-140e-44d7-8d46-c8b5c6d17341" />
+)
